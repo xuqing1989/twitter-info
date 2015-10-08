@@ -1,0 +1,16 @@
+{
+  "name": "twitter-info",
+  "version": "1.0.0",
+  "description": "show twitter from kancolle",
+  "main": "index.cjsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuqing1989/twitter-info.git"
+  },
+  "author": "malichan",
+  "license": "MIT",
+  "homepage": "git+https://github.com/xuqing1989/twitter-info.git"
+}
